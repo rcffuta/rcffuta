@@ -1,8 +1,8 @@
 # ✝️ Redeemed Christian Fellowship – FUTA Chapter (RCFFUTA)
 
-[![GitHub organization](https://img.shields.io/badge/RCF-FUTA-blue?style=flat-square&logo=github)](https://github.com/rcffuta)
+[![GitHub organization](https://img.shields.io/badge/RCF-FUTA-blue?style=flat-square&logo=github)](https://github.com/RCF-FUTA)
 [![Location](https://img.shields.io/badge/location-FUTA%2C%20Akure-orange?style=flat-square&logo=google-maps)](https://maps.app.goo.gl/YLwBL6kXoHPqZJZ89)
-[![Website](https://img.shields.io/badge/Website-Coming%20Soon-informational?style=flat-square&logo=vercel)]
+[![Website](https://img.shields.io/badge/Website-rcffuta.com-informational?style=flat-square&logo=vercel)](https://rcffuta.com)
 
 > _"A place where good things never cease."_
 
