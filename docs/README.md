@@ -17,4 +17,3 @@ Here you’ll find all guidelines, processes, and structure to help you serve ex
 - [Git Workflow](./GIT_WORKFLOW.md)
 - [Onboarding Guide](./ONBOARDING.md)
 - [Deployment Manual](./DEPLOYMENT_GUIDE.md)
-- [Spiritual Guide for Developers](./SPIRITUAL_GUIDE.md)
