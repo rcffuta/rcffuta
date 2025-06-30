@@ -10,7 +10,7 @@
 
 ## 💻 Who We Are
 
-The **Redeemed Christian Fellowship** at the **Federal University of Technology, Akure** is a student body committed to knowing Christ and making Him known. Our **ICT Unit** builds tools that support the mission, values, and digital transformation of the fellowship.
+The **Redeemed Christian Fellowship** at the **Federal University of Technology, Akure** is a student fellowship committed to knowing Christ and making Him known. Our **ICT Unit** builds tools that support the mission, values, and digital transformation of the fellowship.
 
 ---
 
