@@ -20,7 +20,7 @@ The **Redeemed Christian Fellowship** at the **Federal University of Technology,
 - 🧰 `shared-ui-kit` – UI components for RCF internal projects
 - 📝 `docs` – Documentation for current and future ICT members
 
-Want to contribute? Open an issue or reach out via [rcffutaict@gmail.com](mailto:rcffutaict@gmail.com)
+Want to contribute? Open an issue or reach out via [ict@rcffuta.com](mailto:ict@rcffuta.com)
 
 ---
 
